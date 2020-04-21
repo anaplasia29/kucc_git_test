@@ -13,3 +13,6 @@ for j in range(100):
 
 while True:
     break
+
+def printHello():
+    print("hello world")
