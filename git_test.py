@@ -7,24 +7,6 @@ def gen(y):
 #gen(100)
 for i in gen(100):
     print(i)
-"""
-print(gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100)
-,gen(100))"""
+
+for j in range(100):
+    print(j)
