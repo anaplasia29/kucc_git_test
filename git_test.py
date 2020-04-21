@@ -10,4 +10,10 @@ for i in gen(100):
 
 while True:
     print("Hello World")
+for j in range(100):
+    print(j)
+
+while True:
     break
+
+print("new world")
