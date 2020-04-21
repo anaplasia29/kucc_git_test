@@ -16,3 +16,10 @@ while True:
 
 def printHello():
     print("hello world")
+
+
+def fact(x):
+    a = 1
+    for i in range(2,x):
+        a *= x
+    return a
