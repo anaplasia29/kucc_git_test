@@ -17,3 +17,9 @@ while True:
     break
 
 print("new world")
+def printHello():
+    print("hello world")
+
+
+def swap(a,b):
+    return b, a
