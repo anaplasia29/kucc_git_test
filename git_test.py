@@ -21,7 +21,6 @@ def printHello():
     print("hello world")
 
 
-br2
 def fact(x):
     a = 1
     for i in range(2,x):
@@ -30,4 +29,3 @@ def fact(x):
 
 def swap(a,b):
     return b, a
-master
