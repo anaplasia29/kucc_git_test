@@ -5,5 +5,9 @@ def gen(y):
 
 
 #gen(100)
-for i in gen(100):
-    print(i)
+while True:
+    break
+
+print("Hello World")
+
+print("hi")
