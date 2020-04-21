@@ -10,3 +10,6 @@ for i in gen(100):
 
 for j in range(100):
     print(j)
+
+while True:
+    break
